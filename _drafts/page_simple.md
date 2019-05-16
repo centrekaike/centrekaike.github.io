@@ -1,18 +1,9 @@
 ---
+title: ''
+date: 2019-05-16 08:34:18.102000000 Z
 layout: page
-#
-# Content
-#
-subheadline: ""
-title: ""
-teaser: ""
-#
-# Styling
-#
-header: no
-#
-# Metainformation & Customization
-#
-permalink:
+subheadline: ''
+teaser: ''
+header: false
 ---
 
