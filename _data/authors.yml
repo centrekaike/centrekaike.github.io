@@ -7,8 +7,20 @@
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 phlow: # replace this with your info
   name: "Phlow"
-  siterole: "webmaster, developer, copywriter, designer"
+  siterole: "developer, designer"
   uri: http://phlow.de/
   email:
   twitter: "@phlow"
 # you can add more authors here
+silvia: # replace this with your info
+  name: "Sílvia Montllor"
+  siterole: "webmaster, copywriter"
+  uri:
+  email: "smontllor@kaikepsicologia.com"
+  twitter: ""
+albert: # replace this with your info
+  name: "Albert Vilatersana"
+  siterole: "webmaster, developer"
+  uri: http://phlow.de/
+  email: "albertvipe@gmail.com"
+  twitter: ""

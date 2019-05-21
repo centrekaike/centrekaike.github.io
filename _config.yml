@@ -1,6 +1,6 @@
 ---
-title: Feeling Responsive
-timezone: UTC
+title: Kaike Psicologia
+timezone: Europe/Madrid
 collections:
   posts:
     title: Posts
@@ -15,25 +15,24 @@ defaults:
   values:
     show_meta: false
     comments: false
-    author: phlow
+    author: silvia
 - scope:
     path: ''
     type: posts
   values:
     show_meta: true
     comments: false
-    author: phlow
-slogan: A Flexible Theme for Jekyll
-description: "»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous
-  foundation framework with beautiful typography and a bright color palette."
-credits: <p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a
+    author: silvia
+slogan: Centre de Psicologia
+description: "»Kaike Psicologia« és un centre de psicologia multidiciplinar de Sabadell"
+credits: <p>Created by <a href="https://www.linkedin.com/in/avilatersana/">Albert</a> with <a
   href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling
   Responsive</a>.</p>
-author: phlow
-url: https://phlow.github.io
-baseurl: "/feeling-responsive"
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
-urlimg: https://phlow.github.io/feeling-responsive/images/
+author: albert
+url: https://kaike-psicologia.github.io/
+baseurl: ""
+improve_content: https://github.com/kaike-psicologia/kaike-psicologia.github.io/edit/gh-pages
+urlimg: https://kaike-psicologia.github.io/images/
 logo: logo.png
 gems:
 - jekyll-asciidoc
@@ -54,6 +53,7 @@ exclude:
 - LICENSE
 - README.md
 - INSTALL.md
+- Makefile
 language: en
 compress_html:
   clippings: all
@@ -80,8 +80,8 @@ apple-touch-icon-72x72-precomposed: apple-touch-icon-72x72-precomposed.png
 apple-touch-icon-precomposed: apple-touch-icon-precomposed.png
 msapplication_tileimage: msapplication_tileimage.png
 msapplication_tilecolor: "#fabb00"
-og_image: http://images.phlow.de/phlow/phlow_de-logo-512x.png
-og_locale: en_EN
+og_image: https://kaike-psicologia.com/images/kaike_color.png
+og_locale: es_CA
 og_type: website
 socialmedia:
   twitter: phlow
