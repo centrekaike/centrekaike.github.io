@@ -25,12 +25,12 @@ defaults:
     author: silvia
 slogan: Centre de Psicologia
 description: "»Kaike Psicologia« és un centre de psicologia multidiciplinar de Sabadell"
-credits: <p>Created by <a href="https://www.linkedin.com/in/avilatersana/">Albert</a> with <a
-  href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling
+credits: <p>Created by <a href="https://www.linkedin.com/in/avilatersana/">Albert</a>
+  with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling
   Responsive</a>.</p>
 author: albert
 url: https://kaike-psicologia.github.io/
-baseurl: ""
+baseurl: ''
 improve_content: https://github.com/kaike-psicologia/kaike-psicologia.github.io/edit/gh-pages
 urlimg: https://kaike-psicologia.github.io/images/
 logo: logo.png
