@@ -1,10 +1,19 @@
-- title: Start
+- title: Kaike
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: Equip
+  url: "/equip/"
   side: left
+  dropdown:
+  - title: "Sílvia Montllor"
+    url: "/equip/smontllor/"
+  - title: "Ester Alcaraz"
+    url: "/equip/ealcaraz/"
+  - title: "Toni Gata"
+    url: "/equip/tgata/"
+  - title: "Judit Albella"
+    url: "/equip/jalbella/"
 
 - title: "Templates"
   url: "/design/"
