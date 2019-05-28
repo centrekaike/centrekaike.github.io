@@ -1,6 +1,6 @@
 ---
 title: Formacions
-date: 2019-05-28 00:00:00 Z
+date: 2019-05-28 02:00:00 +02:00
 permalink: "/serveis/formacions/"
 categories:
 - serveis
@@ -15,4 +15,5 @@ image:
 author: silvia
 show_meta: false
 ---
+
 Formacions

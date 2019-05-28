@@ -1,6 +1,6 @@
 ---
 title: Teràpia de Grup
-date: 2019-05-28 00:00:00 Z
+date: 2019-05-28 02:00:00 +02:00
 permalink: "/serveis/terapia-grup/"
 categories:
 - serveis
