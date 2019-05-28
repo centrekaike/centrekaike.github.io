@@ -1,6 +1,6 @@
 ---
 title: Psicologia de la Salut Infanto-Juvenil
-date: 2019-05-28 00:00:00 Z
+date: 2019-05-28 02:00:00 +02:00
 permalink: "/psicologia/infanto-juvenil/"
 categories:
 - psicologia
@@ -20,6 +20,7 @@ image:
 author: silvia
 show_meta: false
 ---
+
 Cada teràpia s'adapta al nen/a segons el perfil, dificultat o trastorn que presenti, intentant fer el més integradora possible la intervenció a través de:
 
 Les teràpies són individual i inclouen exploracions, diagnòstics, tractaments i seguiments de tot tipus dins de l'àmbit infantil i de l'adolescent:
