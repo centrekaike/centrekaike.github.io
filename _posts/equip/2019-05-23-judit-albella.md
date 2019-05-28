@@ -1,6 +1,6 @@
 ---
 title: Judit Albella
-date: 2019-05-23 00:00:00 Z
+date: 2019-05-23 02:00:00 +02:00
 permalink: "/equip/jalbella/"
 categories:
 - equip
