@@ -20,5 +20,13 @@ image:
 author: silvia
 show_meta: false
 ---
+Cada teràpia s'adapta al nen/a segons el perfil, dificultat o trastorn que presenti, intentant fer el més integradora possible la intervenció a través de:
 
-Psicologia de la salut per Infanto-Juvenils
+Les teràpies són individual i inclouen exploracions, diagnòstics, tractaments i seguiments de tot tipus dins de l'àmbit infantil i de l'adolescent:
+* Trastorns emocionals
+* Trastorn de l'Espectre Autista (TEA)
+* TDAH i problemes de conducta
+* Trastorns de la conducta alimentària
+* Dislèxia, Discalcúlia, TEL...
+* Trastorns de la personalitat
+* Habilitats socials, etc.
