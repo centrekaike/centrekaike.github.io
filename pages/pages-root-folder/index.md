@@ -4,39 +4,24 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: Blog & Portfolio
-  url: http://phlow.github.io/feeling-responsive/blog/
+  title: Psicologia de la Salut
+  url: https://kaike-psicologia.github.io/psicologia/
   image: widget-1-302x182.jpg
-  text: Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments
-    of your activities. <em>Feeling Responsive</em> offers you a fully functional
-    blog with an archive page to give readers a quick overview of all your posts.
+  text: Aqui trobareu els diferents especialitats en que treballem a <em>Kaike Psicologia</em>.
 widget2:
-  title: Why use this theme?
-  url: http://phlow.github.io/feeling-responsive/info/
-  text: <em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support
-    :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation
-    Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation,
-    footer,...
-  video: <a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg"
-    width="302" height="182" alt=""/></a>
+  title: Altres Serveis
+  url: https://kaike-psicologia.github.io/serveis/
+  text: A <em>Kaike Psicologia</em> també oferim altres tipus de serveis com:<br/>- Teràpia de grup
+    <br/>- Xerrades<br/>- Formacions<br/>
+  image: widget-1-302x182.jpg
 widget3:
-  title: Download Theme
-  url: https://github.com/Phlow/feeling-responsive
+  title: Equip de Kaike
+  url: https://kaike-psicologia.github.io/equip/
   image: widget-github-303x182.jpg
-  text: <em>Feeling Responsive</em> is free and licensed under a MIT License. Make
-    it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a>
-    for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a>
-    with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.
+  text: L'equip de professionals de <em>Kaike Psicologia</em> és molt ampli, especialitzat i proper.</br> No dubtis en venir a <a href="https://kaike-psicologia.github.io/contacte/">conèixer-nos!</a>
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: https://kaike-psicologia.github.io/contacte
+  text: Per mes informació, contacta amb nosaltres! ›
   style: alert
 homepage: true
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
