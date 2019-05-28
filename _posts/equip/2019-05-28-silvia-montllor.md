@@ -21,4 +21,8 @@ author: silvia
 show_meta: false
 ---
 
-Sílvia Montllor
+Directora del centre
+Psicòloga General Sanitària
+Psicòloga Infantil i Juvenil
+
+Llicenciada a la Univeristat Autònoma de Barcelona
