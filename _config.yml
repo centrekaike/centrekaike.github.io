@@ -4,10 +4,10 @@ timezone: Europe/Madrid
 collections:
   posts:
     title: Posts
-    output: true
+    output: false
   uploads:
     title: Uploads
-    output: true
+    output: false
 defaults:
 - scope:
     path: ''
@@ -84,9 +84,9 @@ og_image: https://kaike-psicologia.com/images/kaike_color.png
 og_locale: es_CA
 og_type: website
 socialmedia:
-  twitter: phlow
-  facebook: phlow.media
-disqus_shortname: feelingresponsive
+  twitter: none
+  facebook: none
+disqus_shortname: none
 sass:
   sass_dir: _sass
   style: :compressed
