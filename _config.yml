@@ -1,5 +1,5 @@
 ---
-title: Kaike Psicologia
+title: Centre Kaike
 timezone: Europe/Madrid
 collections:
   posts:
@@ -23,16 +23,16 @@ defaults:
     show_meta: false
     comments: false
     author: silvia
-slogan: Centre de Psicologia
-description: "»Kaike Psicologia« és un centre de psicologia multidiciplinar de Sabadell"
+slogan: Centre de Psicologia i Logopèdia
+description: "»Kaike« és un centre de psicologia i logopèdia referent a Sabadell"
 credits: <p>Created by <a href="https://www.linkedin.com/in/avilatersana/">Albert</a>
   with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling
   Responsive</a>.</p>
 author: albert
-url: https://kaike-psicologia.github.io
+url: https://centrekaike.github.io
 baseurl: ''
-improve_content: https://github.com/kaike-psicologia/kaike-psicologia.github.io/edit/gh-pages
-urlimg: https://kaike-psicologia.github.io/images/
+improve_content: https://github.com/centrekaike/centrekaike.github.io/edit/gh-pages
+urlimg: https://centrekaike.github.io/images/
 logo: logo.png
 gems:
 - jekyll-asciidoc
@@ -80,7 +80,7 @@ apple-touch-icon-72x72-precomposed: apple-touch-icon-72x72-precomposed.png
 apple-touch-icon-precomposed: apple-touch-icon-precomposed.png
 msapplication_tileimage: msapplication_tileimage.png
 msapplication_tilecolor: "#fabb00"
-og_image: https://kaike-psicologia.com/images/kaike_color.png
+og_image: https://centrekaike.com/images/kaike_color.png
 og_locale: es_CA
 og_type: website
 socialmedia:
