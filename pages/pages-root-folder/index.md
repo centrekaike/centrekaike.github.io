@@ -2,7 +2,7 @@
 permalink: "/index.html"
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header_unsplash_5.jpg
 widget1:
   title: Psicologia de la Salut
   url: https://kaike-psicologia.github.io/psicologia/
@@ -26,4 +26,3 @@ callforaction:
   style: alert
 homepage: true
 ---
-
