@@ -1,4 +1,4 @@
-- title: Kaike
+- title: Centre Kaike
   url: "/"
   side: left
 
@@ -10,6 +10,18 @@
     url: "/psicologia/infanto-juvenil/"
   - title: "Adults"
     url: "/psicologia/adults/"
+
+- title: "Logopèdia"
+  url: "/logopedia/"
+  side: left
+  dropdown:
+  - title: "Infanto-Juvenil"
+    url: "/logopedia/infanto-juvenil/"
+  - title: "Adults"
+    url: "/logopedia/adults/"
+  - title: "Teràpies de Grup"
+    url: "/logopedia/terapies_grup/"
+
 
 - title: "Altres Serveis"
   url: "/serveis/"
@@ -34,7 +46,6 @@
     url: "/equip/tgata/"
   - title: "Judit Albella"
     url: "/equip/jalbella/"
-
 
 - title: "Cerca"
   url: "/cerca/"

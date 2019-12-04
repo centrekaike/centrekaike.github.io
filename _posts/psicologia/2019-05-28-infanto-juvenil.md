@@ -30,4 +30,8 @@ Les teràpies són individual i inclouen exploracions, diagnòstics, tractaments
 * Trastorns de la conducta alimentària
 * Dislèxia, Discalcúlia, TEL...
 * Trastorns de la personalitat
+* Habilitats socials, etc.    
+* Dislèxia, Discalcúlia, TEL...
+* Trastorns de la personalitat
 * Habilitats socials, etc.
+* Teràpies i estructures familiars
