@@ -4,12 +4,12 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_5.jpg
 widget1:
-  title: Psicologia de la Salut
+  title: Logopèdia
   url: https://kaike-psicologia.github.io/psicologia/
   image: widget-1-302x182.jpg
   text: Aqui trobareu els diferents especialitats en que treballem a <em>Kaike Psicologia</em>.
 widget2:
-  title: Altres Serveis
+  title: Psicologia
   url: https://kaike-psicologia.github.io/serveis/
   text: A <em>Kaike Psicologia</em> també oferim altres tipus de serveis com:<br/>-
     Teràpia de grup <br/>- Xerrades<br/>- Formacions<br/>

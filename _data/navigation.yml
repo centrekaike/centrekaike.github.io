@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: "Psicologia de la Salut"
+- title: "Psicologia"
   url: "/psicologia/"
   side: left
   dropdown:
@@ -37,15 +37,6 @@
 - title: Equip
   url: "/equip/"
   side: left
-  dropdown:
-  - title: "Sílvia Montllor"
-    url: "/equip/smontllor/"
-  - title: "Ester Alcaraz"
-    url: "/equip/ealcaraz/"
-  - title: "Toni Gata"
-    url: "/equip/tgata/"
-  - title: "Judit Albella"
-    url: "/equip/jalbella/"
 
 - title: "Cerca"
   url: "/cerca/"
