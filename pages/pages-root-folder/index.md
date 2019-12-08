@@ -26,3 +26,16 @@ callforaction:
   style: alert
 homepage: true
 ---
+Kaike és un centre multidisciplinar format per diferents professionals de la salut. Som un equip de psicòlegs i logopedes especialitzats tant en l’àmbit infantil, d’adolescents com d’adults.
+
+Intentem adaptar cada tractament al pacient i/o a la família segons el perfil, dificultat o trastorn que presenti, fent d’aquesta manera una intervenció el màxim integradora possible.
+
+
+(...) posar més coses!
+
+
+El nom del nostre centre, “Kaike” fa referència al concepte “cognitiu” “pensament” “raonament” en hawaià. Representa part de la nostra professió, molt relacionada amb els aprenentatges, les emocions o les funcions neurològiques que afecten al cervell.
+
+Som professionals implicats i amb una gran vocació per la nostra feina i, això intentem que es percebi en la manera de viure el dia a dia amb els nostres pacients. No només oferim pautes psicològiques, teràpies i intervencions per millorar sinó que, si és necessari, també ens coordinem o fem recomanacions de centres més especialitzats.
+
+Ens podeu trobar a la Plaça de l’àngel, 6, 1r B, de Sabadell.
