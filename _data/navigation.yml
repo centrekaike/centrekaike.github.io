@@ -22,6 +22,10 @@
   - title: "Teràpies de Grup"
     url: "/logopedia/terapies_grup/"
 
+- title: "Sessió Informativa"
+  url: "/sessio-informativa/"
+  side: left
+
 
 - title: "Altres Serveis"
   url: "/serveis/"

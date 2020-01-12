@@ -21,17 +21,23 @@ author: silvia
 show_meta: false
 ---
 
-Cada teràpia s'adapta al nen/a segons el perfil, dificultat o trastorn que presenti, intentant fer el més integradora possible la intervenció a través de:
+Cada teràpia s'adapta al nen/a segons el perfil, dificultat o trastorn que presenti, intentant fer el més integradora possible la intervenció.
 
-Les teràpies són individual i inclouen exploracions, diagnòstics, tractaments i seguiments de tot tipus dins de l'àmbit infantil i de l'adolescent:
-* Trastorns emocionals
+Les teràpies individuals inclouen  exploracions, diagnòstics, tractaments i seguiments de tot tipus dins de l'àmbit infantil i de l'adolescent (dels 3 als 18 anys aproximadament). Les intervencions més freqüents engloben:
+* Trastorns adaptatius (angoixa, ansietat per separació, símptomes depressius...)
+* Dificultats i gestió emocional
+* Pors, fòbies
+* Enuresis i Encorpresis (control d’esfínters)
 * Trastorn de l'Espectre Autista (TEA)
-* TDAH i problemes de conducta
-* Trastorns de la conducta alimentària
-* Dislèxia, Discalcúlia, TEL...
-* Trastorns de la personalitat
-* Habilitats socials, etc.    
+* TDAH
+* Problemes de conducta
+* Trastorns de la conducta alimentària (TCA)
 * Dislèxia, Discalcúlia, TEL...
 * Trastorns de la personalitat
 * Habilitats socials, etc.
 * Teràpies i estructures familiars
+
+
+> Tots som genis. Però si jutges a un peix per la seva habilitat de pujar a un arbre, viurà tota la seva vida creient que és estúpid.
+<cite>Albert Einstein</cite>
+{: .text-right }

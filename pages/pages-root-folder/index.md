@@ -5,37 +5,30 @@ header:
   image_fullwidth: header_unsplash_5.jpg
 widget1:
   title: Logopèdia
-  url: https://kaike-psicologia.github.io/psicologia/
+  url: https://centrekaike.github.io/logopedia/
   image: widget-1-302x182.jpg
   text: Aqui trobareu els diferents especialitats en que treballem a <em>Kaike Psicologia</em>.
 widget2:
   title: Psicologia
-  url: https://kaike-psicologia.github.io/serveis/
+  url: https://centrekaike.github.io/psicologia/
   text: A <em>Kaike Psicologia</em> també oferim altres tipus de serveis com:<br/>-
     Teràpia de grup <br/>- Xerrades<br/>- Formacions<br/>
   image: widget-1-302x182.jpg
 widget3:
-  title: Equip de Kaike
-  url: https://kaike-psicologia.github.io/equip/
+  title: Sessió Informativa
+  url: https://centrekaike.github.io/sessio-informativa/
   image: widget-github-303x182.jpg
-  text: L'equip de professionals de <em>Kaike Psicologia</em> és molt ampli, especialitzat
-    i proper.</br> No dubtis en venir a <a href="https://kaike-psicologia.github.io/contacte/">conèixer-nos!</a>
+  text: Oferim una sessió GRATUÏTA telefònica o presencial per tal que ens puguis conèixer i fer un primer contacte. Només has de trucar-nos i t’ho explicarem!
 callforaction:
-  url: https://kaike-psicologia.github.io/contacte
+  url: https://centrekaike.github.io/contacte
   text: Per mes informació, contacta amb nosaltres! ›
   style: alert
 homepage: true
 ---
-Kaike és un centre multidisciplinar format per diferents professionals de la salut. Som un equip de psicòlegs i logopedes especialitzats tant en l’àmbit infantil, d’adolescents com d’adults.
+Kaike és un centre multidisciplinar format per diferents professionals de la salut. Som un equip de psicòlegs i logopedes especialitzats tant en l’àmbit infantil, d’adolescents com d’adults. Intentem adaptar cada tractament al pacient i/o a la família segons el perfil, dificultat o trastorn que presenti, fent d’aquesta manera una intervenció el màxim integradora possible.
 
-Intentem adaptar cada tractament al pacient i/o a la família segons el perfil, dificultat o trastorn que presenti, fent d’aquesta manera una intervenció el màxim integradora possible.
+El nom del nostre centre, “Kaike”, fa referència al concepte “cognitiu”, “pensament” o “raonament” en hawaià. Representa part de la nostra professió, molt relacionada amb els aprenentatges, les emocions o les funcions neurològiques que afecten al cervell.
 
+Som professionals implicats i amb una gran vocació per la nostra feina i, això intentem que es percebi en la manera de viure el dia a dia amb els nostres pacients. No només oferim serveis a consulta, també ens coordinem o fem recomanacions de centres més especialitzats, ens agrada fer xarxa i treballar entre tots i totes.
 
-(...) posar més coses!
-
-
-El nom del nostre centre, “Kaike” fa referència al concepte “cognitiu” “pensament” “raonament” en hawaià. Representa part de la nostra professió, molt relacionada amb els aprenentatges, les emocions o les funcions neurològiques que afecten al cervell.
-
-Som professionals implicats i amb una gran vocació per la nostra feina i, això intentem que es percebi en la manera de viure el dia a dia amb els nostres pacients. No només oferim pautes psicològiques, teràpies i intervencions per millorar sinó que, si és necessari, també ens coordinem o fem recomanacions de centres més especialitzats.
-
-Ens podeu trobar a la Plaça de l’àngel, 6, 1r B, de Sabadell.
+Si voleu visitar-nos o informar-vos, ens podeu trobar a la Plaça de l’àngel, 6, 1r B, de Sabadell. Compartim espai amb <a href=https://www.alimmenta.com/>Alimmenta</a>, format per un equip de nutricionistes amb qui compartim casos, formacions. Així, amb aquestes tres disciplines (Logopèdia, psicologia i nutrició), podem oferir-vos el màxim de serveix I aportacions a les teràpies.
