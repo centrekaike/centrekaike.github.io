@@ -26,13 +26,13 @@ defaults:
 slogan: Centre de Psicologia i Logopèdia
 description: "»Kaike« és un centre de psicologia i logopèdia referent a Sabadell"
 credits: <p>Created by <a href="https://www.linkedin.com/in/avilatersana/">Albert</a>
-  with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling
+  with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="https://phlow.github.io/feeling-responsive/">Feeling
   Responsive</a>.</p>
 author: albert
-url: https://centrekaike.github.io
+url: https://centrekaike.com
 baseurl: ''
 improve_content: https://github.com/centrekaike/centrekaike.github.io/edit/gh-pages
-urlimg: https://centrekaike.github.io/images/
+urlimg: https://centrekaike.com/images/
 logo: logo.png
 gems:
 - jekyll-asciidoc
