@@ -1,6 +1,6 @@
 ## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
 
-[![Flattr this git repo](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Phlow&url=https://github.com/Phlow/feeling-responsive&title=Support%20Feeling%20Responsive%20Jekyll%20Theme&language=en_GB&tags=github,jekyll,theme,webdesign&category=software)
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Phlow&url=https://github.com/Phlow/feeling-responsive&title=Support%20Feeling%20Responsive%20Jekyll%20Theme&language=en_GB&tags=github,jekyll,theme,webdesign&category=software)
 
 
 # Newsletter: Stay in Touch for Future Updates
@@ -14,7 +14,7 @@ If you are a webdesigner interested in Jekyll, the static website generator, thi
 
 ## A Responsive Jekyll Theme: *Feeling Responsive*
 
-Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <https://phlow.github.io/feeling-responsive/>.
+Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>.
 
 To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
 
@@ -57,13 +57,13 @@ Click the image to [watch the YouTube-Video-Tutorial][4].
 
 
 
- [1]: https://phlow.github.io/feeling-responsive/documentation/
+ [1]: http://phlow.github.io/feeling-responsive/documentation/
  [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
- [3]: https://phlow.github.io/feeling-responsive/info/
+ [3]: http://phlow.github.io/feeling-responsive/info/
  [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
  [5]: https://github.com/TWiStErRob
  [6]: https://phlow.github.io/feeling-responsive/changelog/
- [7]: https://phlow.github.io/feeling-responsive/
- [8]: https://phlow.github.io/simplicity/
+ [7]: http://phlow.github.io/feeling-responsive/
+ [8]: http://phlow.github.io/simplicity/
  [9]: #
  [10]: #
