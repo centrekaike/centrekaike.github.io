@@ -5,22 +5,22 @@ header:
   image_fullwidth: header_unsplash_5.jpg
 widget1:
   title: Logopèdia
-  url: https://centrekaike.github.io/logopedia/
+  url: https://centrekaike.com/logopedia/
   image: widget-1-302x182.jpg
-  text: Aqui trobareu els diferents especialitats en que treballem a <em>Kaike Psicologia</em>.
+  text: Aqui trobareu els diferents especialitats en que treballem al <em>Centre Kaike</em>.
 widget2:
   title: Psicologia
-  url: https://centrekaike.github.io/psicologia/
-  text: A <em>Kaike Psicologia</em> també oferim altres tipus de serveis com:<br/>-
+  url: https://centrekaike.com/psicologia/
+  text: A <em>Kaike</em> també oferim altres tipus de serveis com:<br/>-
     Teràpia de grup <br/>- Xerrades<br/>- Formacions<br/>
   image: widget-1-302x182.jpg
 widget3:
   title: Sessió Informativa
-  url: https://centrekaike.github.io/sessio-informativa/
+  url: https://centrekaike.com/sessio-informativa/
   image: widget-github-303x182.jpg
   text: Oferim una sessió GRATUÏTA telefònica o presencial per tal que ens puguis conèixer i fer un primer contacte. Només has de trucar-nos i t’ho explicarem!
 callforaction:
-  url: https://centrekaike.github.io/contacte
+  url: https://centrekaike.com/contacte
   text: Per mes informació, contacta amb nosaltres! ›
   style: alert
 homepage: true

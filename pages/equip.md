@@ -3,8 +3,8 @@ title: Equip
 permalink: "/equip/"
 layout: page
 show_meta: false
-subheadline: L'equip de Kaike Psicologia
-teaser: Aquest és l'equip que conforma Kaike Psicologia.
+subheadline: L'equip de Kaike
+teaser: Aquest és l'equip que conforma el Centre Kaike.
 header:
   image_fullwidth: header_homepage_13.jpg
 ---
