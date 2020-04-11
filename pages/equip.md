@@ -13,7 +13,4 @@ header:
     {% for post in site.categories.equip %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-    <li>Sandra Garreta</li>
-    <li>Marta Fuster</li>
-    <li>Angela Serena</li>
 </ul>

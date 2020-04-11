@@ -15,9 +15,11 @@ layout: page
 image:
   title: gallery-example-1.jpg
   caption: Instagram
-  caption_url: https://www.instagram.com/kaikepsicologia/
+  caption_url: https://www.instagram.com/kaikepsicologialogopedia/
 author: silvia
 show_meta: false
 ---
 
-Judit Albella
+Psicòloga col·legiada núm. 25229<br>
+Psicòloga General Sanitària<br>
+Teràpia breu i estratègica

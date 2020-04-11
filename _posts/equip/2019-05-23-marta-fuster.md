@@ -1,16 +1,14 @@
 ---
-title: Antonio Gata Pérez
+title: Marta Fuster Gallardo
 date: 2019-05-23 02:00:00 +02:00
-permalink: "/equip/tgata/"
+permalink: "/equip/mfuster/"
 categories:
 - equip
 tags:
-- psicologia
-- adults
-- clinica
+- logopedia
+- infantojuvenil
+- infantil
 - adolescents
-- mindfulness
-- ansietat
 layout: page
 image:
   title: gallery-example-1.jpg
@@ -20,6 +18,6 @@ author: silvia
 show_meta: false
 ---
 
-Psicòleg col·legiat número 21726<br>
-Psicòleg General Sanitari<br>
-Psicòleg d’adults
+Logopeda col·legiada número 3994<br>
+Logopeda d’adults<br>
+Postgrau en Intervenció logopèdica dels trastorns de la veu

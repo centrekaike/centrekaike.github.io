@@ -1,16 +1,14 @@
 ---
-title: Antonio Gata Pérez
+title: Sandra Garreta Barderi
 date: 2019-05-23 02:00:00 +02:00
-permalink: "/equip/tgata/"
+permalink: "/equip/sgarreta/"
 categories:
 - equip
 tags:
-- psicologia
-- adults
-- clinica
+- logopedia
+- infantojuvenil
+- infantil
 - adolescents
-- mindfulness
-- ansietat
 layout: page
 image:
   title: gallery-example-1.jpg
@@ -20,6 +18,6 @@ author: silvia
 show_meta: false
 ---
 
-Psicòleg col·legiat número 21726<br>
-Psicòleg General Sanitari<br>
-Psicòleg d’adults
+Codirectora de Kaike<br>
+Logopeda col·legiada núm. 08.4209<br>
+Logopeda infantil i juven

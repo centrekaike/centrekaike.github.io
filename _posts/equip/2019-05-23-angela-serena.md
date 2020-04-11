@@ -1,16 +1,14 @@
 ---
-title: Antonio Gata Pérez
+title: Ángela Serena Ferro
 date: 2019-05-23 02:00:00 +02:00
-permalink: "/equip/tgata/"
+permalink: "/equip/aserena/"
 categories:
 - equip
 tags:
-- psicologia
-- adults
-- clinica
+- logopedia
+- infantojuvenil
+- infantil
 - adolescents
-- mindfulness
-- ansietat
 layout: page
 image:
   title: gallery-example-1.jpg
@@ -20,6 +18,6 @@ author: silvia
 show_meta: false
 ---
 
-Psicòleg col·legiat número 21726<br>
-Psicòleg General Sanitari<br>
-Psicòleg d’adults
+Logopeda col·legiada número 08-4462<br>
+Logopeda Infantil i Juvenil<br>
+Implementador Certificat PECS Nivell 1 (PCI-1)

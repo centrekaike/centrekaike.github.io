@@ -16,7 +16,7 @@ layout: page
 image:
   title: gallery-example-1.jpg
   caption: Instagram
-  caption_url: https://www.instagram.com/kaikepsicologia/
+  caption_url: https://www.instagram.com/kaikepsicologialogopedia/
 author: silvia
 show_meta: false
 ---
