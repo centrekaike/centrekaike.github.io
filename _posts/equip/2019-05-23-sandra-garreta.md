@@ -20,4 +20,4 @@ show_meta: false
 
 Codirectora de Kaike<br>
 Logopeda col·legiada núm. 08.4209<br>
-Logopeda infantil i juven
+Logopeda infantil i juvenil
