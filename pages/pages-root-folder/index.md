@@ -31,4 +31,4 @@ El nom del nostre centre, “Kaike”, fa referència al concepte “cognitiu”
 
 Som professionals implicats i amb una gran vocació per la nostra feina i, això intentem que es percebi en la manera de viure el dia a dia amb els nostres pacients. No només oferim serveis a consulta, també ens coordinem o fem recomanacions de centres més especialitzats, ens agrada fer xarxa i treballar entre tots i totes.
 
-Si voleu visitar-nos o informar-vos, ens podeu trobar a la Plaça de l’àngel, 6, 1r B, de Sabadell. Compartim espai amb <a href=https://www.alimmenta.com/>Alimmenta</a>, format per un equip de nutricionistes amb qui compartim casos, formacions. Així, amb aquestes tres disciplines (Logopèdia, psicologia i nutrició), podem oferir-vos el màxim de serveix I aportacions a les teràpies.
+Si voleu visitar-nos o informar-vos, ens podeu trobar a la Plaça de l’àngel, 6, 1r B, de Sabadell. Compartim espai amb [Alimmenta](https://www.alimmenta.com), format per un equip de nutricionistes amb qui compartim casos, formacions. Així, amb aquestes tres disciplines (Logopèdia, psicologia i nutrició), podem oferir-vos el màxim de serveix I aportacions a les teràpies.
