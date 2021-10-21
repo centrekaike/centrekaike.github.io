@@ -19,4 +19,5 @@ show_meta: false
 ---
 Psicòloga col·legiada número 22522<br>
 Psicòloga General Sanitària<br>
-Psicòloga Infantil i Juvenil
+Psicòloga Infantil i Juvenil<br>
+Teràpia E.M.D.R

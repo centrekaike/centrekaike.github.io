@@ -1,7 +1,7 @@
 ---
-title: Antonio Gata Pérez
+title: Aida Alvira
 date: 2019-05-23 02:00:00 +02:00
-permalink: "/equip/tgata/"
+permalink: "/equip/aalvira/"
 categories:
 - equip
 tags:
@@ -9,8 +9,6 @@ tags:
 - adults
 - clinica
 - adolescents
-- mindfulness
-- ansietat
 layout: page
 image:
   title: gallery-example-1.jpg
@@ -19,7 +17,7 @@ image:
 author: silvia
 show_meta: false
 ---
-
-Psicòleg col·legiat número 21726<br>
-Psicòleg General Sanitari<br>
-Psicòleg d’adults
+Psicòloga col·legiada número 19788<br>
+Psicòloga General Sanitària<br>
+Psicologia d’adults<br>
+Teràpia E.M.D.R    
