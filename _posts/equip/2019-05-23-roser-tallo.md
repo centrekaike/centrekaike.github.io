@@ -1,7 +1,7 @@
 ---
 title: Roser Talló
 date: 2019-05-23 02:00:00 +02:00
-permalink: "/equip/gsastre/"
+permalink: "/equip/rtallo/"
 categories:
 - equip
 tags:
