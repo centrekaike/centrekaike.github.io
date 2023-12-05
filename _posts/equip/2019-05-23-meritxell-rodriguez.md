@@ -1,7 +1,7 @@
 ---
-title: Judit Albella
+title: Meritxell Rodriguez
 date: 2019-05-23 02:00:00 +02:00
-permalink: "/equip/jalbella/"
+permalink: "/equip/mrodriguez/"
 categories:
 - equip
 tags:
@@ -20,6 +20,6 @@ author: silvia
 show_meta: false
 ---
 
-Psicòloga col·legiada núm. 25229<br>
+Psicòloga col·legiada núm. 21129<br>
+Psicòloga Infantil i Juvenil<br>
 Psicòloga General Sanitària<br>
-Teràpia breu i estratègica
