@@ -1,7 +1,7 @@
 ---
-title: Guillem Sastre
+title: Andrea Iglesias
 date: 2019-05-23 02:00:00 +02:00
-permalink: "/equip/gsastre/"
+permalink: "/equip/aiglesias/"
 categories:
 - equip
 tags:
@@ -9,9 +9,7 @@ tags:
 - psicologia sanitaria
 - adults
 - clinica
-- infantojuvenil
-- infantil
-- adolescents
+- sistemica
 layout: page
 image:
   title: gallery-example-1.jpg
@@ -21,8 +19,8 @@ author: silvia
 show_meta: false
 ---
 
-Psicòleg col·legiat número 30378<br>
-Psicòleg General Sanitari<br>
-Psicòleg Adults<br>
-Intervenció en conductes addictives
+Psicòloga col·legiada número 28680<br>
+Psicòloga General Sanitaria<br>
+Psicòloga Adults<br>
+Teràpia Sistèmica
 
