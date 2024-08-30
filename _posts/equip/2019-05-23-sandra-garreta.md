@@ -19,6 +19,6 @@ author: silvia
 show_meta: false
 ---
 
-Codirectora de Kaike<br>
-Logopeda col·legiada núm. 08.4209<br>
-Logopeda infantil i juvenil
+Logopeda infantil juvenil<br>
+Directora de Kaike Logopèdia<br>
+Col·legiada núm. 08-4209

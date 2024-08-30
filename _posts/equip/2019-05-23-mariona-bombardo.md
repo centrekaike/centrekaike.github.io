@@ -21,7 +21,7 @@ author: silvia
 show_meta: false
 ---
 
-Psicòloga col·legiada núm. 28777<br>
+Psicologia de la Salut (Sanitària)<br>
 Gestió i acompanyament emocional<br>
-Procés de dol d'adults i infants<br>
-Psicòloga General Sanitària<br>
+Procés de dol d’adults i infants<br>
+Col·legiada núm. 28777

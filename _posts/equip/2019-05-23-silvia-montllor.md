@@ -22,7 +22,8 @@ author: silvia
 show_meta: false
 ---
 
-Codirectora i fundadora de Kaike<br>
-Psicòloga col·legiada número 20995<br>
-Psicòloga General Sanitària<br>
-Psicòloga Infantil i Juvenil
+Psicologia de la Salut (Sanitària)<br>
+Psicologia infantil i juvenil<br>
+Psicologia breu estratègica<br>
+Directora de Kaike Psicologia<br>
+Col·legiada núm. 20995 

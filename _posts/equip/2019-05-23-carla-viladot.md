@@ -18,7 +18,7 @@ image:
 author: silvia
 show_meta: false
 ---
-Psicòloga col·legiada número 22522<br>
-Psicòloga General Sanitària<br>
-Psicòloga Infantil i Juvenil<br>
-Teràpia E.M.D.R
+Psicologia de la Salut (Sanitària)<br>
+Psicologia infantil i juvenil<br>
+Teràpia E.M.D.R<br>
+Col·legiada núm. 22522

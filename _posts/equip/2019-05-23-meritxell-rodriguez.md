@@ -21,6 +21,6 @@ author: silvia
 show_meta: false
 ---
 
-Psicòloga col·legiada núm. 21129<br>
-Psicòloga Infantil i Juvenil<br>
-Psicòloga General Sanitària<br>
+Psicologia de la Salut (Sanitària)<br>
+Psicologia infantil i juvenil<br>
+Col·legiada núm. 21129

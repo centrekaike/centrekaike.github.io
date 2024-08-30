@@ -22,8 +22,8 @@ author: silvia
 show_meta: false
 ---
 
-Psicòloga col·legiat número 25229<br>
-Psicòloga General Sanitari<br>
-Psicologia Breu i estratègica<br>
-Psicòloga Juvenil i Adults
+Psicologia de la Salut (Sanitària)<br>
+Psicologia breu estratègica<br>
+Psicologia juvenil i adults<br>
+Col·legiada núm. 25229 
 

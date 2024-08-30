@@ -20,8 +20,8 @@ author: silvia
 show_meta: false
 ---
 
-Psicòloga col·legiada número 28680<br>
-Psicòloga General Sanitaria<br>
-Psicòloga Adults<br>
-Teràpia Sistèmica
+Psicologia de la Salut (Sanitària)<br>
+Psicologia d’adults<br>
+Teràpia sistèmica<br>
+Col·legiada núm. 28680
 

@@ -1,5 +1,5 @@
 ---
-title: Ángela Serena Ferro
+title: Àngela Serena Ferro
 date: 2019-05-23 02:00:00 +02:00
 permalink: "/equip/aserena/"
 categories:
@@ -19,6 +19,5 @@ author: silvia
 show_meta: false
 ---
 
-Logopeda col·legiada número 08-4462<br>
-Logopeda Infantil i Juvenil<br>
-Implementador Certificat PECS Nivell 1 (PCI-1)
+Logopeda infantil i juvenil
+Col·legiada núm. 08-4462

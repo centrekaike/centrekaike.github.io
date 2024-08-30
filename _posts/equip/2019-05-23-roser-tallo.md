@@ -22,7 +22,6 @@ author: silvia
 show_meta: false
 ---
 
-Psicòloga col·legiat número 27426<br>
-Psicòloga General Sanitari<br>
-Psicòloga Infantil i Juvenil
-
+Psicologia de la Salut (Sanitària)<br>
+Psicologia infantil i juvenil<br>
+Col·legiada núm. 27426 
