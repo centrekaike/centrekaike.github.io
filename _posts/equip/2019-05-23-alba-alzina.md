@@ -1,7 +1,7 @@
 ---
-title: Ángela Serena Ferro
+title: Alba Alzina
 date: 2019-05-23 02:00:00 +02:00
-permalink: "/equip/aserena/"
+permalink: "/equip/aalzina/"
 categories:
 - equip
 - logopedia
@@ -19,6 +19,3 @@ author: silvia
 show_meta: false
 ---
 
-Logopeda col·legiada número 08-4462<br>
-Logopeda Infantil i Juvenil<br>
-Implementador Certificat PECS Nivell 1 (PCI-1)

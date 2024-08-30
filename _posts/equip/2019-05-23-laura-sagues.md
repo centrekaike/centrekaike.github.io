@@ -1,9 +1,10 @@
 ---
-title: Marta Fuster Gallardo
+title: Laura Sagués
 date: 2019-05-23 02:00:00 +02:00
-permalink: "/equip/mfuster/"
+permalink: "/equip/lsagues/"
 categories:
 - equip
+- logopedia
 tags:
 - logopedia
 - infantojuvenil
@@ -18,6 +19,3 @@ author: silvia
 show_meta: false
 ---
 
-Logopeda col·legiada número 3994<br>
-Logopeda d’adults<br>
-Postgrau en Intervenció logopèdica dels trastorns de la veu

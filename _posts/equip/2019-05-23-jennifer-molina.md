@@ -1,13 +1,14 @@
 ---
-title: Aida Alvira
+title: Jennifer Molina
 date: 2019-05-23 02:00:00 +02:00
-permalink: "/equip/aalvira/"
+permalink: "/equip/jmolina/"
 categories:
 - equip
+- logopedia
 tags:
-- psicologia
-- adults
-- clinica
+- logopedia
+- infantojuvenil
+- infantil
 - adolescents
 layout: page
 image:
@@ -17,7 +18,4 @@ image:
 author: silvia
 show_meta: false
 ---
-Psicòloga col·legiada número 19788<br>
-Psicòloga General Sanitària<br>
-Psicologia d’adults<br>
-Teràpia E.M.D.R    
+

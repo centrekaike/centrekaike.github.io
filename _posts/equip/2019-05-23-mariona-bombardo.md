@@ -1,12 +1,14 @@
 ---
-title: Ángela Serena Ferro
+title: Mariona Bombardó
 date: 2019-05-23 02:00:00 +02:00
-permalink: "/equip/aserena/"
+permalink: "/equip/mbombardo/"
 categories:
 - equip
-- logopedia
+- psicologia
 tags:
-- logopedia
+- psicologia
+- clinica
+- psicologia sanitaria
 - infantojuvenil
 - infantil
 - adolescents
@@ -19,6 +21,7 @@ author: silvia
 show_meta: false
 ---
 
-Logopeda col·legiada número 08-4462<br>
-Logopeda Infantil i Juvenil<br>
-Implementador Certificat PECS Nivell 1 (PCI-1)
+Psicòloga col·legiada núm. 28777<br>
+Gestió i acompanyament emocional<br>
+Procés de dol d'adults i infants<br>
+Psicòloga General Sanitària<br>

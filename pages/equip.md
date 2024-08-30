@@ -9,8 +9,16 @@ header:
   image_fullwidth: header_homepage_13.jpg
 ---
 
+<h2>Psicologia</h2>
 <ul>
-    {% for post in site.categories.equip %}
+    {% for post in site.categories.psicologia %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+
+<h2>Logopedia</h2>
+<ul>
+    {% for post in site.categories.logopedia %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>

@@ -4,6 +4,7 @@ date: 2019-05-23 02:00:00 +02:00
 permalink: "/equip/sgarreta/"
 categories:
 - equip
+- logopedia
 tags:
 - logopedia
 - infantojuvenil
