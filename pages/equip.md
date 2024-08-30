@@ -4,7 +4,7 @@ permalink: "/equip/"
 layout: page
 show_meta: false
 subheadline: L'equip de Kaike
-teaser: Us presentem el nostre equip:
+teaser: Us presentem el nostre equip
 header:
   image_fullwidth: header_homepage_13.jpg
 ---
