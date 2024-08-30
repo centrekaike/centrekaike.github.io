@@ -4,7 +4,7 @@ date: 2019-05-23 02:00:00 +02:00
 permalink: "/equip/rtallo/"
 categories:
 - equip
-- psicologia
+- equip_psico
 tags:
 - psicologia
 - psicologia sanitaria

@@ -4,7 +4,7 @@ date: 2019-05-23 02:00:00 +02:00
 permalink: "/equip/aalzina/"
 categories:
 - equip
-- logopedia
+- equip_logo
 tags:
 - logopedia
 - infantojuvenil

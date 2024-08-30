@@ -11,14 +11,14 @@ header:
 
 <h2>Psicologia</h2>
 <ul>
-    {% for post in site.categories.psicologia %}
+    {% for post in site.categories.equip_psico %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
 
 <h2>Logopedia</h2>
 <ul>
-    {% for post in site.categories.logopedia %}
+    {% for post in site.categories.equip_logo %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
