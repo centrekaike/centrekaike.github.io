@@ -23,10 +23,10 @@
 #   class: icon-googleplus
 #   title: "YouTube Google+"
 
-- name: Facebook
-  url: https://www.facebook.com/Kaike-Psicologia-466292707144258/
-  class: icon-facebook
-  title: "Kaike Facebook"
+# - name: Facebook
+#   url: https://www.facebook.com/Kaike-Psicologia-466292707144258/
+#   class: icon-facebook
+#   title: "Kaike Facebook"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
